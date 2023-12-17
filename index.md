@@ -14,11 +14,3 @@ This blog is where I share insights and experiences from my data engineering car
 ## Explore My Work!
 
 * [Blog]{:.heading.flip-title} --- Dive into concise, insightful posts covering essential data engineering concepts.
-<!--* [Projects]{:.heading.flip-title} --- Discover industry-relevant projects I have worked on.
-[Resume]{:.heading.flip-title} --- Get an overview of my professional journey and skills.
-{:.related-posts.faded}  
-
-[blog]: blog-posts/
-[projects]: projects/
-
-[resume]: resume/ -->
