@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Shahzaib Khan
-  email:             shazaibahmed0000@gmail.com
+  name:              Yash Joshi
+  email:             yash.joshi@mail.mcgill.ca
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -23,13 +23,10 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          HypertextAssassin0273
-    facebook:        shahzaib0273
-    linkedin:        shahzaibkhan0273
-    twitter:         Shahzaib0273
-    stackoverflow:   13753378/hypertextassassin0273
-    email:           shazaibahmed0000@gmail.com
-    # quora:           Shazaib-Ahmed-11
+    github:          yash-analytics
+    linkedin:        yashanalytics
+    email:           yash.joshi@mail.mcgill.ca
+    # quora:           
     # resume:          /assets/Resume.pdf
     # youtube:         <username>
     # rss:             https://<url>/feed.xml

@@ -1,9 +1,8 @@
 ---
 cover: true
 image: /assets/img/hydejack-8.png
-title: "Portfolio"
-hide_description: false
-description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
+title: "LDE"
+hide_description: true
 ---
 
 ## Hi, I am Shahzaib!!! 🎉

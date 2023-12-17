@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   HypertextAssassin0273.github.io
+url:                   yash-analytics.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,19 +19,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shahzaib Khan
+title:                 LDE Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
- An enthusiastic learner & coder who's eager to enhance his coding skills. Currently, undergraduate at NUCES FAST. Interested in Cyber Security & Artificial Intelligence.
+Concise tutorials, industry insights, and hands-on projects to elevate your data engineering skills.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Developer' -- Inquisitive Coder' -- Cyber Enthusiast'
+  Tutorial - Industry Insights - Hands-on Projects
 
 # A list of keywords for your blog
-keywords:              [engineer, developer, hacker, hardware, fastian, karachiite]
+keywords:              [sql, python, azure, databricks, tutorial, interview]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -40,8 +40,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Shahzaib> <Ahmed>
-  email:               <shazaibahmed0000@gmail.com>
+  name:                <Yash> <Joshi>
+  email:               <yash.joshi@mail.mcgill.ca>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -54,7 +54,7 @@ legal:
 #    href:              /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. Shazaib Khan - All rights reserved.
+copyright:             © 2022. Yash Joshi - All rights reserved.
 
 # Format of the permalinks
 permalink:              /:categories/:year-:month-:day-:title/
@@ -324,9 +324,9 @@ remote_theme: hydecorp/hydejack@v9.0.4
 
 # Used on index and about sites
 social:
-  name:                <Shahzaib> <Ahmed>
+  name:                <Yash> <Joshi>
   links:
-    - https://github.com/<HypertextAssassin0273>
+    - https://github.com/<yash-analytics>
 
 
 # Jekyll Compose Defaults
