@@ -1,7 +1,7 @@
 ---
 cover: true
 image: /assets/img/hydejack-8.png
-title: "LDE"
+title: "Learn Data Enngineering"
 hide_description: true
 ---
 
