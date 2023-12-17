@@ -24,7 +24,7 @@ title:                 LDE Blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-Concise tutorials, industry insights, and hands-on projects to elevate your data engineering skills.
+  Concise tutorials, industry insights, and hands-on projects to elevate your data engineering skills.
 
 # A shorter description for the sidebar.
 tagline:               >
