@@ -21,3 +21,5 @@ Join me in exploring how data engineering shapes the future of finance!💹
 ## Explore My Work!
 
 * [Blog]{:.heading.flip-title} --- Dive into concise, insightful posts covering essential data engineering concepts.
+{:.related-posts.faded}  
+[blog]: blog-posts/
