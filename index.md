@@ -9,7 +9,7 @@ hide_description: true
 
 Welcome to my Data Engineering blog!
 
-As a <a href="https://www.mcgill.ca/desautels/programs/mma" target="_blank"> Master of Management in Analytics</a> student at <img src="/assets/img/mcgill_sig_red.jpg" alt="McGill" style="height:1.5em; vertical-align:middle;"/>, set to graduate in August 2024, I bring three years of experience in building data pipelines on <img src="/assets/img/Microsoft_Azure-Logo.wine.png" alt="Azure" style="height:1.5em; vertical-align:middle;"/> and writing optimized <img src="/assets/img/logo.png" alt="SQL" style="height:1.5em; vertical-align:middle;"/> queries.
+As a <a href="https://www.mcgill.ca/desautels/programs/mma" target="_blank"> Master of Management in Analytics</a> student at <img src="/assets/img/mcgill_sig_red.jpg" alt="McGill" style="height:1.2em; vertical-align:middle;"/>, set to graduate in August 2024, I bring three years of experience in building data pipelines on <img src="/assets/img/Microsoft_Azure-Logo.wine.png" alt="Azure" style="height:1.2em; vertical-align:middle;"/> and writing optimized <img src="/assets/img/sql.png" alt="SQL" style="height:1.2em; vertical-align:middle;"/> queries.
 
 
 My passion lies in the finance sector, where I aim to apply my data engineering skills to make impactful contributions.💹
