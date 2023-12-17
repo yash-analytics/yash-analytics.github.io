@@ -23,5 +23,5 @@ I created this personal website to keep track of my projects, talk about my expe
 [blog]: blog-posts/
 [projects]: projects/
 
-[certifications]: certifications/
+[certifications]: index/
 [resume]: resume/
