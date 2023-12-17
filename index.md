@@ -1,20 +1,23 @@
 ---
 cover: true
 image: /assets/img/hydejack-8.png
-title: "Learn Data Enngineering"
+title: "Learn Data Engineering Blog"
 hide_description: true
 ---
 
-## Hi, I am Shahzaib!!! 🎉
+## Hey, I'm Yash👋
 
-I created this personal website to keep track of my projects, talk about my experience as an Engineer, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to stand out in the crowd one day (Inshaallah).
+Welcome to my journey as a Data Engineer!
 
+I'm Yash, currently enriching my skills through a Master of Management in Analytics at McGill, set to graduate in August 2024. With over three years of experience in building efficient data pipelines and crafting advanced SQL queries, I have developed a keen interest in the finance domain. My goal is to apply my data engineering expertise to innovate in banking and financial services.
 
-## Feel Free to Explore
+Through this blog, I aim to share my insights and the lessons I've learned in data engineering, with a special focus on its application in finance. Whether you're just starting out or seeking to deepen your knowledge, this blog offers a wealth of resources for everyone. Join me as I explore the intersection of data engineering and finance, and let's delve into how data can drive the financial world.
 
-* [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
-* [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
-* [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
+## Checkout the pages below! 
+
+* [Blog]{:.heading.flip-title} --- Dive into concise, insightful posts covering essential data engineering concepts.
+* [Projects]{:.heading.flip-title} --- Discover industry-relevant projects I have worked on.
+* [Resume]{:.heading.flip-title} --- Get an overview of my professional journey and skills.
 {:.related-posts.faded}
 
 [blog]: blog-posts/
