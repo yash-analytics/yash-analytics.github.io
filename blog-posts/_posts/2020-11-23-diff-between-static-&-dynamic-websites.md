@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Difference b/w Static & Dynamic Websites
-hide_image: false
-accent_color: false
+hide_image: true
+accent_color: true
 accent_image:
-  background: false
-  overlay:    false
+  background: true
+  overlay:    true
 ---
 
 **Static websites** are basically pure **HTML** files with additional **JavaScript** and **CSS** files to make the page more colorful and dynamic in the **browser**. But what the browser downloads from the **server** is pure file-based.
