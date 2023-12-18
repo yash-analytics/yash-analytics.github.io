@@ -4,7 +4,7 @@ title: Difference b/w Static & Dynamic Websites
 hide_image: false
 accent_color: '#4fb1ba'
 accent_image:
-  background: #040404
+  background: '#040404'
   overlay:    true
 ---
 
