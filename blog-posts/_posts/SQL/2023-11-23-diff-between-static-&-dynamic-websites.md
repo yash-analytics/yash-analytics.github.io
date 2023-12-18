@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Difference b/w Static & Dynamic Websites
-categories: [SQL, Python, Tutorial]
 hide_image: false
 accent_color: '#4fb1ba'
 accent_image:
