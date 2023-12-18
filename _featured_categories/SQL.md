@@ -3,7 +3,7 @@ layout: list
 title: SQL
 slug: SQL
 menu: false
-order: 1
+order: 2
 description: >
   SQL related blog posts.
 ---
