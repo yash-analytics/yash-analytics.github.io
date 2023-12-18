@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Difference b/w Static & Dynamic Websites
+categories: [SQL]
 hide_image: false
 accent_color: '#4fb1ba'
 accent_image:
