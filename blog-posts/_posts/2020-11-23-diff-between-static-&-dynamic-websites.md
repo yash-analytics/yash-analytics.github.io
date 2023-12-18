@@ -4,7 +4,7 @@ title: Difference b/w Static & Dynamic Websites
 hide_image: false
 accent_color: '#4fb1ba'
 accent_image:
-  background: 'linear-gradient(to bottom,#b00213 0%,#9b0941 30%,#3c929e 50%,#890c58 70%,#890c58 100%)'
+  background: /assets/img/sidebar-bg-2.jpg
   overlay:    true
 ---
 
