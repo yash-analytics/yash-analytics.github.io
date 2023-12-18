@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I'm a passionate data engineer and a McGill  Analytics student, set to graduate in 2024. My blog focuses on sharing my learnings in data engineering<br><br>
+    I'm a passionate data engineer and a McGill Analytics student, set to graduate in 2024. My blog focuses on sharing my learnings in data engineering. <br><br>
 
 
   # This photo will be used in the about section
