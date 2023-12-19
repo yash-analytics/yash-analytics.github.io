@@ -23,3 +23,7 @@ Join me in exploring how data engineering shapes the future of finance!💹
 * [Blog]{:.heading.flip-title} --- Dive into concise, insightful posts covering essential data engineering concepts.
 {:.related-posts.faded}  
 [blog]: blog-posts/
+
+## Total number of visitors:
+
+<script type="text/javascript" src="//counter.websiteout.com/js/7/8/0/0"></script>
