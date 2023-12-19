@@ -24,6 +24,6 @@ Join me in exploring how data engineering shapes the future of finance!💹
 {:.related-posts.faded}  
 [blog]: blog-posts/
 
-## Total number of visitors of this page:
+## Total number of visits to this page:
 
 <script type="text/javascript" src="//counter.websiteout.com/js/7/8/0/0"></script>
