@@ -5,5 +5,5 @@ slug: SQL
 menu: false
 order: 2
 description: >
-  SQL related blog posts.
+  Browse a collection of all SQL related blog posts below!
 ---

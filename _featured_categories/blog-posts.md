@@ -5,5 +5,5 @@ slug: Blog
 menu: true
 order: 1
 description: >
-  A collection of all blog posts
+  Browse a collection of all blog posts below!
 ---
