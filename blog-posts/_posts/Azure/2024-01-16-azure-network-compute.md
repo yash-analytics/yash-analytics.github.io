@@ -39,7 +39,7 @@ accent_image:
 </ul>
 
 <p>
-In the ever-evolving landscape of cloud computing, Azure has emerged as a powerhouse, offering a plethora of services that revolutionize how businesses deploy, manage, and scale applications. At the heart of this revolution are Azure Compute and Networking Services, critical components that form the backbone of cloud architecture.
+In the ever-evolving landscape of cloud computing, Azure has emerged as a powerhouse, offering a plethora of services that revolutionize how businesses deploy, manage, and scale applications. At the heart of this revolution are <strong>Azure Compute and Networking Services</strong>, critical components that form the backbone of cloud architecture.
 </p>
 
 <p>
@@ -47,8 +47,6 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 </p>
 
 <h2 id="#azure-compute-overview">1. Azure Compute Overview</h2>
-
-<p>Imagine a startup, Bells and Whistles, an online store specializing in unique Christmas gifts. The holiday season is their peak sales period, with demand surging unexpectedly during festivals and weekends. How does Bells and Whistles ensure that their digital storefront remains accessible and efficient to capitalize on this seasonal demand?</p>
 
 <h3>Overview of Azure Compute Services</h3>
 <p>Azure offers a range of compute services, each designed to meet different needs in the cloud environment. Below is a table comparing key Azure compute services:</p>
@@ -61,7 +59,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <th>Ideal Use Case</th>
   </tr>
   <tr>
-    <td>Core Compute</td>
+    <td><strong>Core Compute</strong></td>
     <td>Azure VMs</td>
     <td>Flexible, on-demand virtual machines with a wide range of processing power and storage options.</td>
     <td>Best for traditional applications needing control over the OS and environment. Ideal for legacy and specialized workloads.</td>
@@ -92,7 +90,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 
   </tr>
   <tr>
-    <td>Container Solutions</td>
+    <td><strong>Container Solutions</strong></td>
     <td>Azure Container Instances</td>
     <td>Simplified container execution in Azure, without the need to manage VMs or adopt higher-level services.</td>
     <td>Perfect for isolated container execution when orchestration is not required.</td>
@@ -110,7 +108,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <td>Ideal for mission-critical applications requiring stateful or stateless services, operating at a large scale.</td>
   </tr>
   <tr>
-    <td>Serverless Computing</td>
+    <td><strong>Serverless Computing</strong></td>
     <td>Azure Functions</td>
     <td>An event-driven, serverless compute platform that simplifies complex orchestration problems.</td>
     <td>Suited for workloads that respond to events, scale rapidly, and do not require a permanent server presence.</td>
@@ -127,28 +125,28 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <th>Availability Sets</th>
   </tr>
   <tr>
-    <td>Functionality</td>
+    <td><strong>Functionality</strong></td>
     <td>Dedicated virtual machines with customizable configurations.</td>
     <td>Autoscaling VMs with identical configurations.</td>
     <td>Managed platform for hosting web applications, RESTful APIs, and mobile app back ends.</td>
     <td>A logical grouping of VMs that are isolated from each other, providing redundancy and high availability.</td>
   </tr>
   <tr>
-    <td>Management</td>
+    <td><strong>Management</strong></td>
     <td>High individual management overhead; manual monitoring and maintenance.</td>
     <td>Reduced management overhead; automated tasks across multiple VMs.</td>
     <td>Low management overhead; automated platform maintenance and security patching by Azure.</td>
     <td>Provides redundancy and high availability with lesser individual management overhead compared to single VMs.</td>
   </tr>
   <tr>
-    <td>Vertical Scaling</td>
+    <td><strong>Vertical Scaling</strong></td>
     <td>Supported by increasing VM size for greater power.</td>
     <td>Typically not used; scale set is for horizontal scaling.</td>
     <td>Limited support within service plan constraints.</td>
     <td>Not directly applicable; focused on redundancy rather than scaling.</td>
   </tr>
   <tr>
-    <td>Horizontal Scaling</td>
+    <td><strong>Horizontal Scaling</strong></td>
     <td>Manual addition of more VM instances.</td>
     <td>Automatic scaling based on performance metrics or rules.</td>
     <td>Automatic scaling and load balancing within App Service plan limits.</td>
@@ -168,19 +166,19 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <th>Azure Service Fabric</th>
   </tr>
   <tr>
-    <td>Functionality</td>
+    <td><strong>Functionality</strong></td>
     <td>Simplest way to run containers in Azure without VM management.</td>
     <td>Managed Kubernetes service for container orchestration.</td>
     <td>Platform for deploying and managing microservices and containers, with a focus on stateful services.</td>
   </tr>
   <tr>
-    <td>Management</td>
+    <td><strong>Management</strong></td>
     <td>Minimal management; direct container management without VMs.</td>
     <td>Simplified Kubernetes management, though Kubernetes knowledge is required.</td>
     <td>More complex management with advanced orchestration capabilities.</td>
   </tr>
   <tr>
-    <td>Scalability</td>
+    <td><strong>Scalability</strong></td>
     <td>Not typically for complex scaling; best for single or batch container workloads.</td>
     <td>Robust horizontal scaling of container instances based on demand.</td>
     <td>Horizontal scaling of services, with more focus on maintaining state and consistency.</td>
