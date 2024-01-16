@@ -161,9 +161,9 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 <p>The following image illustrates the concepts of vertical vs. horizontal scaling in the context of Azure's compute services.</p>
 <img src="/assets/img/blog/Blog 3 - Image 1.png" alt="Vertical vs Horizontal Scaling">
 
-<p>Vertical Scaling: Upsizing the capacity of your instance, such as adding more RAM or CPU. It's like moving from a smaller capacity to a more capacity one in the same truck - more storage, but still one truck.</p>
+<p>Vertical Scaling (Scaling Up): Upsizing the capacity of your instance, such as adding more RAM or CPU. It's like moving from a smaller capacity to a more capacity one in the same truck - more storage, but still one truck.</p>
 
-<p>Horizontal Scaling: Adding more instances, similar to increasing the number of trucks to manage increased demand.</p>
+<p>Horizontal Scaling (Scaling Out): Adding more instances, similar to increasing the number of trucks to manage increased demand.</p>
 
 <h3>Azure Container Solutions Compared:</h3>
 <table border="1">
