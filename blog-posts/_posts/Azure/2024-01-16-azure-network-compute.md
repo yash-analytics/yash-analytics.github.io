@@ -24,6 +24,10 @@ accent_image:
         ul {
             text-align: justify;
         }
+        .uniform-image-size {
+        max-width: 500px;    
+        width: 100%; 
+        height: auto;}
     </style>
 </head>
 <body>
@@ -155,7 +159,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 </table>
 
 <p>The following image illustrates the concepts of vertical vs. horizontal scaling in the context of Azure's compute services.</p>
-<img src="/assets/img/blog/Blog 3 - Image 1.png" alt="Vertical vs Horizontal Scaling">
+<img src="/assets/img/blog/Blog 3 - Image 1.png" alt="Vertical vs Horizontal Scaling" class="uniform-image-size">
 
 <p>Vertical Scaling (Scaling Up): Upsizing the capacity of your instance, such as adding more RAM or CPU. It's like moving from a smaller capacity to a more capacity one in the same truck - more storage, but still one truck.</p>
 
@@ -203,7 +207,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <li>Manage via RDP: Use Remote Desktop Protocol for remote management and configuration of the Windows VM.</li>
 </ol>
 <p>Here's a snapshot from the Azure portal, showcasing the interface for creating a new Windows Virtual Machine.</p>
-<img src="/assets/img/blog/Blog 3 - Image 2.png" alt="Azure screen of creating a Windows VM">
+<img src="/assets/img/blog/Blog 3 - Image 2.png" alt="Azure screen of creating a Windows VM" class="uniform-image-size">
 
 <h3>Provisioning Linux VMs:</h3>
 <ol start="1">
@@ -214,14 +218,14 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <li>Configure Network Security: Modify network security group settings to enable HTTP traffic for the web server.</li>
 </ol>
 <p>The image below displays the Azure portal's process for setting up a new Linux Virtual Machine.</p>
-<img src="/assets/img/blog/Blog 3 - Image 3.png" alt="Azure screen of creating a Linux VM">
+<img src="/assets/img/blog/Blog 3 - Image 3.png" alt="Azure screen of creating a Linux VM" class="uniform-image-size">
 
 <h2 id="#azure-networking-fundamentals">3. Azure Networking Fundamentals</h2>
 
 <p>Azure's networking capabilities are essential in creating a highly available, secure, and scalable cloud environment. This section delves into the fundamental aspects of Azure networking, including virtual networks, subnets, network security, and the strategies employed to ensure secure and efficient network communication.</p>
 
 <p>The below diagram illustrates Azure's Networking Services:</p>
-<img src="/assets/img/blog/Blog 3 - Image 4.png" alt="Azure Networking Services Diagram">
+<img src="/assets/img/blog/Blog 3 - Image 4.png" alt="Azure Networking Services Diagram" class="uniform-image-size">
 
 <h3>Introduction to Azure Virtual Network</h3>
 <p>Azure Virtual Network (VNet) is the cornerstone of Azure networking, providing the foundation for your Azure-based services and applications. It enables Azure resources like VMs to securely communicate with each other, the internet, and on-premises networks.</p>
