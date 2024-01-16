@@ -24,10 +24,6 @@ accent_image:
         ul {
             text-align: justify;
         }
-        img {
-            width: 100%;
-            height: auto;
-        }
     </style>
 </head>
 <body>
