@@ -26,7 +26,7 @@ accent_image:
         }
         .uniform-image-size {
         max-width: 500px;    
-        width: 100%; 
+        width: auto; 
         height: auto;}
     </style>
 </head>
