@@ -50,7 +50,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 
 <p>Imagine a startup, Bells and Whistles, an online store specializing in unique Christmas gifts. The holiday season is their peak sales period, with demand surging unexpectedly during festivals and weekends. How does Bells and Whistles ensure that their digital storefront remains accessible and efficient to capitalize on this seasonal demand?</p>
 
-<h2>1. Overview of Azure Compute Services</h2>
+<h3>Overview of Azure Compute Services</h3>
 <p>Azure offers a range of compute services, each designed to meet different needs in the cloud environment. Below is a table comparing key Azure compute services:</p>
 
 <table border="1">
@@ -157,7 +157,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 </table>
 
 <p>The following image illustrates the concepts of vertical vs. horizontal scaling in the context of Azure's compute services.</p>
-<img src="Blog_3_Image_1.png" alt="Vertical vs Horizontal Scaling">
+<img src="/assets/img/blog/Blog 3 - Image 1.png" alt="Vertical vs Horizontal Scaling">
 
 <h3>Azure Container Solutions Compared:</h3>
 <table border="1">
@@ -201,7 +201,7 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <li>Manage via RDP: Use Remote Desktop Protocol for remote management and configuration of the Windows VM.</li>
 </ol>
 <p>Here's a snapshot from the Azure portal, showcasing the interface for creating a new Windows Virtual Machine.</p>
-<img src="Blog_3_Image_2.png" alt="Azure screen of creating a Windows VM">
+<img src="/assets/img/blog/Blog 3 - Image 2.png" alt="Azure screen of creating a Windows VM">
 
 <h3>Provisioning Linux VMs:</h3>
 <ol start="1">
@@ -212,14 +212,14 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
     <li>Configure Network Security: Modify network security group settings to enable HTTP traffic for the web server.</li>
 </ol>
 <p>The image below displays the Azure portal's process for setting up a new Linux Virtual Machine.</p>
-<img src="Blog_3_Image_3.png" alt="Azure screen of creating a Linux VM">
+<img src="/assets/img/blog/Blog 3 - Image 3.png" alt="Azure screen of creating a Linux VM">
 
 <h2 id="#azure-networking-fundamentals">3. Azure Networking Fundamentals</h2>
 
 <p>Azure's networking capabilities are essential in creating a highly available, secure, and scalable cloud environment. This section delves into the fundamental aspects of Azure networking, including virtual networks, subnets, network security, and the strategies employed to ensure secure and efficient network communication.</p>
 
 <p>The below diagram illustrates Azure's Networking Services:</p>
-<img src="Blog_3_Image_4.png" alt="Azure Networking Services Diagram">
+<img src="/assets/img/blog/Blog 3 - Image 4.png" alt="Azure Networking Services Diagram">
 
 <h3>Introduction to Azure Virtual Network</h3>
 <p>Azure Virtual Network (VNet) is the cornerstone of Azure networking, providing the foundation for your Azure-based services and applications. It enables Azure resources like VMs to securely communicate with each other, the internet, and on-premises networks.</p>
@@ -277,17 +277,17 @@ Azure Compute Services, encompassing a variety of offerings from virtual machine
 <p>Integrating Azure Compute with Networking involves several key steps to ensure efficient, secure, and scalable cloud infrastructure. Here's a concise overview of the essential steps:</p>
 
 <h3>Creating a Virtual Network</h3>
-<ol start="44">
+<ol start="1">
     <li>Create a Virtual Network (VNet): Establish a VNet in Azure, serving as the foundational network infrastructure for your cloud services.</li>
 </ol>
 
 <h3>Deploying VMs to Virtual Networks</h3>
-<ol start="45">
+<ol start="2">
     <li>Deploy VMs to the VNet: Choose and configure VMs for deployment within the created VNet.</li>
 </ol>
 
 <h3>Managing Traffic and Networking Features</h3>
-<ol start="46">
+<ol start="3">
     <li>Set Up Subnets: Organize your VNet by creating subnets for different resource groups or services.</li>
     <li>Implement Network Security Groups (NSGs): Configure NSGs to control inbound and outbound traffic to the VMs and subnets.</li>
     <li>Use Network Appliances for Advanced Networking: Optionally, incorporate network appliances for specific networking requirements or advanced routing capabilities.</li>
